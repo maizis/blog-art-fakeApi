@@ -1,9 +1,11 @@
-[
-  {
-    "id": 1,
-    "title": "titre 1",
-    "subtitle": "grege",
-    "body": "greger"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
- 
+}
