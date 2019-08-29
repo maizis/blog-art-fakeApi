@@ -4,34 +4,41 @@
       "title": "Le maniérisme" ,
       "subtitle": "mouvement artistique qui s'étend entre 1520 et 1580.",
       "body": "Le maniérisme est une réaction à la perfection atteinte durant la Haute Renaissance dans la représentation du corps humain et dans la maîtrise de l'art de la perspective (théorie d'Alberti). À ce titre, on a souvent qualifié le maniérisme d'« art anti-albertien », notamment Pisanelli. Certains artistes, autour de Giulio Romano et des élèves d'Andrea del Sarto, ont ainsi cherché à rompre délibérément avec l'exactitude des proportions, l'harmonie des couleurs ou la réalité de l'espace, de manière à produire un nouvel effet émotionnel et artistique. Le maniérisme se caractérise en outre comme un art de répertoire, où les artistes puisent chez Raphaël ou Michel-Ange des formules pour définir leur vocabulaire spécifique. La Pietà du Vatican de Michel-Ange est ainsi retravaillée dans la « Vierge au long cou » de Parmigianino, vers 1535-1540. La figure serpentina est aussi une formule fréquemment citée dans les œuvres de Bronzino, notamment le Noli me tangere de 15612. Cette figure en forme de S constitue un idéal nouveau pour les maniéristes, irrationnelle, en rupture avec la rigidité des règles mathématiques3.",
-      "date_upload":" 04_03_2019"
+      "date_upload":" 04_03_2019",
+      "like":29
     },
     { "id": 2, 
       "title": "Le baroque" ,
       "subtitle": "Le terme « baroque » vient du portugais « barroco » qui signifie « perle irrégulière",
       "body": "Le terme « baroque » dans son sens actuel, comme la plupart des périodes ou désignations stylistiques, a été inventé postérieurement par la critique d'art (c'est Heinrich Wolfflin qui impose cette catégorie esthétique en 1915 dans ses Principes fondamentaux de l'histoire de l'art) et non par les artistes des xvie et xviie siècles. Ceux-ci ne se pensaient pas baroques, mais classiques. Ils utilisent les formes du Moyen Âge, les ordres classiques, les frontons, toute une modénature classique issue des modèles gréco-romains. Le baroque est né à Rome à la fin du xvie siècle. En français, le terme est attesté dès 1531 à propos d'une perle, à la fin du xviie siècle au sens figurée. Ainsi Jean-Jacques Rousseau écrit en 1768 dans son Dictionnaire de la musique « Baroque : Une musique baroque est celle dont l'harmonie est confuse, chargée de modulations et dissonances, le chant dur et peu naturel, l'intonation difficile, et le mouvement contraint. Il y a bien de l'apparence que ce terme vient du baroco des logiciens. » C'est en 1855 que, pour la première fois, le mot est utilisé pour décrire la période et l’art succédant à la Renaissance sous la plume de l’historien d’art suisse Jacob Burckhardt dans Le Cicerone",
-      "date_upload":" 05_03_2019"
+      "date_upload":" 05_03_2019",
+      "like":34
     },
     { "id": 3, 
       "title": "Le classicisme" ,
       "subtitle": "Le classicisme est un mouvement culturel, esthétique et artistique qui se développe en France, et plus largement en Europe",
       "body": "La notion de « classicisme » pose des problèmes de définition. C'est pourquoi il peut être utile de revenir à l'origine sémantique du mot pour en comprendre le sens. Le terme classicus désigne en latin la classe la plus fortunée de la société. Par glissements successifs, le terme a désigné la dernière classe des auteurs, c'est-à-dire les écrivains de référence, ceux qu'on étudie dans les classes. C'est à partir de ce sens que le mot a été utilisé pour désigner d'une part les auteurs de l'Antiquité dignes d'être imités et d'autre part les auteurs français du xviie siècle qui ont développé un art de mesure et de raison en défendant le respect et l'imitation des Anciens. Le terme de classicisme est utilisé pour la première fois par Stendhal en 1817 pour désigner les œuvres qui prennent pour modèle l'art antique par opposition aux œuvres romantiques.",
-      "date_upload":" 06_04_2019"
+      "date_upload":" 06_04_2019",
+      "like":23
     },
     { "id": 4, 
       "title": "Le rococo" ,
       "subtitle": "e rococo est un mouvement artistique européen du xviiie siècle touchant l’architecture, les arts décoratifs, la peinture et la sculpture.",
       "body": "Selon Delécluze, le terme « rococo » est inventé, vers 1797, en dérision par Pierre-Maurice Quay1, élève de Jacques-Louis David, maître à penser du mouvement des Barbus et chantre d’un néo-classicisme poussé à l’extrême. Il résulterait d’une association du mot français rocaille, qui désigne une ornementation imitant les rochers et les pierres naturelles et la forme incurvée de certains coquillages, et du mot portugais barroco : « baroque ». Le terme rococo conserve longtemps un caractère péjoratif avant d’être accepté par les historiens de l’art vers le milieu du xixe siècle et d’être considéré comme un mouvement artistique européen à part entière3, quoique l'on préfère parler de style rocaille pour ce qui concerne la France.",
-      "date_upload":" 07_05_2019"
+      "date_upload":" 07_05_2019",
+      "like":34
     }
   ],
+
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+
   "user": [
     { "pseudo": "sarah", "mail":"xxx@gmail.com", "password":"adagio"}
   ],
+
   "admin": [
     {"pseudo": "admin", "password": "admin"}
   ] 
